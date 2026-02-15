@@ -2,6 +2,7 @@
 # 【请修改以下内容】
 title: 计算机图像处理实验室          # 你的实验室名称，例如：IVML Lab
 subtitle: 江西财经大学    # 所属机构，例如：School of CS, XYZ University
+baseurl: "/my-labweb"
 description: 我们专注于计算机视觉、深度学习和医学图像分析的研究，致力于推动人工智能在图像领域的应用。 # 实验室简介
 header: images/background.jpg            # 页头背景图（可替换为你实验室的照片，路径不变）
 footer: images/background.jpg            # 页脚背景图（同上）
